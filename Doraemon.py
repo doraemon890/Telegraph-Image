@@ -49,13 +49,13 @@ HELP_TEXT = """ʜᴇʏ, ғᴏʟʟᴏᴡ ᴛʜᴇsᴇ sᴛᴇᴘs:
 
 ABOUT_TEXT = """ᴀʙᴏᴜᴛ ᴍᴇ 🫧
 
-🪽 ɴᴀᴍᴇ : [ᴛᴇʟᴇɢʀᴀᴘʜ ᴜᴘʟᴏᴀᴅᴇʀ](https://t.me/Telgraph_V2_Bot)
+🪽 ɴᴀᴍᴇ : [ᴛᴇʟᴇɢʀᴀᴘʜ ᴜᴘʟᴏᴀᴅᴇʀ](https://t.me/TgGraph_Uploader_Robot)
 
 🪽 ᴅᴇᴠᴇʟᴏᴘᴇʀ : [ᴊᴀʀᴠɪs](https://t.me/JARVIS_V2)
 
-🪽 Cʜᴀɴɴᴇʟ : [𝙹ᴀʀᴠɪs 𝚂ᴜᴘᴘᴏʀᴛ](https://t.me/JARVIS_X_SUPPORT)
+🪽 Cʜᴀɴɴᴇʟ : [𝙹ᴀʀᴠɪs 𝚂ᴜᴘᴘᴏʀᴛ](https://t.me/JARVIS_V_SUPPORT)
 
-🪽 ғᴇᴇᴅʙᴀᴄᴋ : [ᴛᴀᴘ ʜᴇʀᴇ](https://t.me/CHATTING_2024)
+🪽 ғᴇᴇᴅʙᴀᴄᴋ : [ᴛᴀᴘ ʜᴇʀᴇ](https://t.me/Dora_hub)
 
 🪽 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ³](https://python.org)
 
@@ -195,7 +195,7 @@ async def getmedia(bot, update):
         )
         return
     
-    text=f"**Link :-** `https://telegra.ph{response[0]}`\n\n**ᴘʟᴇᴀsᴇ ᴊᴏɪɴ 💗 :-** @JARVIS_X_SUPPORT"
+    text=f"**Link :-** `https://telegra.ph{response[0]}`\n\n**ᴘʟᴇᴀsᴇ ᴊᴏɪɴ 💗 :-** @JARVIS_V_SUPPORT"
     reply_markup=InlineKeyboardMarkup(
         [
             [
@@ -203,7 +203,7 @@ async def getmedia(bot, update):
                 InlineKeyboardButton(text="sʜᴀʀᴇ ʟɪɴᴋ🌷", url=f"https://telegram.me/share/url?url=https://telegra.ph{response[0]}")
             ],
             [
-                InlineKeyboardButton(text="Jᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🛠", url="https://telegram.me/JARVIS_X_SUPPORT")
+                InlineKeyboardButton(text="Jᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🛠", url="https://telegram.me/JARVIS_V_SUPPORT")
             ]
         ]
     )
