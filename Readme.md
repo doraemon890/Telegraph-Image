@@ -27,8 +27,8 @@
 
 ## Support   
 
-- Join Our [Telegram Group](https://t.me/CHATTING_2024) 
-- Join Our [Channel](https://t.me/JARVIS_X_SUPPORT) For Updates.
+- Join Our [Telegram Group](https://t.me/Dora_Hub) 
+- Join Our [Channel](https://t.me/JARVIS_V_SUPPORT) For Updates.
 
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
